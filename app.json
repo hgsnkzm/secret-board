@@ -1,7 +1,7 @@
 {
 "name": "secret-board",
 "description": "秘密の匿名掲示板",
-"repository": "https://github.com/progedu/secret-board",
+"repository": "https://github.com/hgsnkzm/secret-board",
 "logo": "",
 "keywords": ["node"],
 "image": "heroku/nodejs"
